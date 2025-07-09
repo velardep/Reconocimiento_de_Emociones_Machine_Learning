@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="160" alt="Python Logo">
+  </a>
+</p>
+
 # Reconocimiento de Emociones con Machine Learning
 
 Sistema integrado para la captura, entrenamiento y reconocimiento en tiempo real de emociones faciales mediante visión artificial y aprendizaje automático. Este proyecto utiliza Python con OpenCV y modelos clásicos de reconocimiento facial para detectar y clasificar emociones a partir de imágenes capturadas por cámara.
