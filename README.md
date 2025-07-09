@@ -4,6 +4,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Machine_learning_logo.jpg" width="200" alt="Machine Learning Logo">
+  </a>
+</p>
+
+
 # Reconocimiento de Emociones con Machine Learning
 
 Sistema integrado para la captura, entrenamiento y reconocimiento en tiempo real de emociones faciales mediante visión artificial y aprendizaje automático. Este proyecto utiliza Python con OpenCV y modelos clásicos de reconocimiento facial para detectar y clasificar emociones a partir de imágenes capturadas por cámara.
